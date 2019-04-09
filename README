@@ -1,2 +1,3 @@
-blabla
-This is a test.
+Classifying movie reviews
+
+In order to getting familiar with neural networks I reproduced an example from the book "Deep Learning with Python" from Francois Chollet.
