@@ -1,3 +1,5 @@
 Classifying movie reviews
 
 In order to getting familiar with neural networks I reproduced an example from the book "Deep Learning with Python" from Francois Chollet.
+We build a network to classify movie reviews whether they are positive or negative based on the text content of the reviews,
+i.e. it's an instance for two-class classification.
